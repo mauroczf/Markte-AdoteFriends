@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Sidbar = () => {
+const Sidebar = () => {
   return (
     <>
 
@@ -8,4 +8,4 @@ const Sidbar = () => {
   )
 }
 
-export default Sidbar
+export default Sidebar
